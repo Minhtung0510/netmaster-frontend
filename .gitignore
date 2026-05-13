@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+dist/
+.env
+.vscode/
+*.log
+
+# Exclude all other folders (each has its own git repo)
+NetMasterAPI/
+data/
+extension/
+vibe/
+.cursor/
